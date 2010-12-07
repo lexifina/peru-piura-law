@@ -1,0 +1,21 @@
+Artículo 44º.- Son funciones de la Oficina Regional de Administración las siguientes:
+a.- Proponer las políticas y estrategias referentes a la administración de recursos humanos, materiales y financieros, así como la prestación de servicios generales del Gobierno Regional Piura.
+b.- Administrar los recursos económicos y financieros en concordancia con el Plan Estratégico y los Planes Operativos del Gobierno Regional Piura.
+c.- Administrar, registrar, controlar, cautelar, fiscalizar el patrimonio mobiliario de la entidad.
+d.- Aprobar el alta, la baja y la disposición final de los bienes muebles de propiedad de la entidad.
+e.- Programar, organizar, dirigir y controlar los procesos técnicos de personal, contabilidad, tesorería, ejecución presupuestal, abastecimiento y bienes estatales; de conformidad con las disposiciones legales y normas técnicas vigentes.
+f.- Remitir a la Superintendencia de Bienes Nacionales el inventario patrimonial de los bienes muebles de la entidad.
+g.- Dirigir y evaluar las acciones de Administración de recursos humanos relacionados con los procesos técnicos de selección, contratación, registro y control, remuneraciones, evaluaciones, capacitación, movimiento y promoción del personal; así como los programas de bienestar y servicio social.
+h.- Elaborar y ejecutar el Programa Regional de Capacidades Humanas.
+i.- Participar en la formulación del Presupuesto Participativo del Gobierno Regional Piura, en coordinación con la Gerencia Regional de Planeamiento Presupuesto y Acondicionamiento Territorial.
+j.- Presentar y brindar información oportuna sobre los sistemas que dirige, con la sustentación técnica respectiva, en los plazos establecidos o cuando le sea requerida.
+k.- Participar en la formulación del Presupuesto del pliego en coordinación con la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial.
+l.- Prever de los recursos financieros a las diferentes dependencias del Gobierno Regional y logísticos a las unidades orgánicas de la Sede del Gobierno Regional.
+m.- Proponer las directivas, que permitan mejorar su gestión.
+n.- Asegurar la disponibilidad de recursos para el pago de las obligaciones y presentar propuestas de racionalización de gastos, en el marco de las disposiciones presupuestarias vigentes.
+o.- Proponer las mejoras metodológicas de los sistemas que están bajo su responsabilidad.
+p.- Ejercer control previo de todas las operaciones que se realizan en el ámbito de la Oficina Regional de Administración.
+q.- Dirigir y evaluar las acciones de abastecimiento, relacionadas con los procesos técnicos de adquisiciones en sus diversas modalidades, de servicios generales, instalaciones y de control patrimonial y seguros.
+r.- Emitir informe técnico legal, sobre la transferencia, alquileres de bienes muebles correspondientes de propiedad del Gobierno Regional Piura.
+s.- Desarrollar las demás funciones de su competencia y otras que le sean asignadas por la Gerencia General Regional.
+4.- DICE:
