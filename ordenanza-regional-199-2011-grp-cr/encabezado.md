@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 199-2011/GRP-CR
+EL CONSEJO REGIONAL DEL
+GOBIERNO REGIONAL PIURA;
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Piura, de conformidad con lo previsto en la Constitución Política del Perú de 1993, modificada por la Ley de Reforma Constitucional del Capítulo XIV, del Título IV, sobre Descentralización – Ley Nº 27680, Ley de Bases de la Descentralización – Ley Nº 27783, Ley Orgánica de Gobiernos Regionales – Ley Nº 27867 y su modificatoria, Ley Nº 27902 y demás Normas Complementarias, Ley General de Turismo - Ley Nº 29408;
+CONSIDERANDO:
+Que, la Constitución Política del Perú, modificada por Ley Nº 27680 – Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización y Ley Nº 28607, en su artículo 191° establece que los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia; y en su artículo 192° inciso 1), dispone que los Gobiernos Regionales son competentes para aprobar su organización interna y su presupuesto;
+Que, el Artículo 9º numeral 2) de la Ley Nº 27783, Ley de Bases de la Descentralización, señala que la Autonomía Administrativa consiste en la facultad que tienen los Gobiernos Regionales de organizarse internamente, determinar y reglamentar los servicios públicos de su responsabilidad, asimismo su artículo 35º de la Ley de Bases de la Descentralización Nº 27783, establece que los Gobiernos Regionales y Locales son competentes para aprobar su organización interna y su presupuesto institucional conforme a la Ley de Gestión Presupuestaria del Estado y a las Leyes Anuales de Presupuesto;
+Que, la Ley Orgánica de Gobiernos Regionales N° 27867, en el literal a) del artículo 15° establece que son atribuciones del Consejo Regional, el aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de su competencia y funciones del Gobierno Regional;
+Que, mediante Memorándum N° 013-2011/GRP-100000 del 20 de enero de 2011, Presidencia Regional comunica que con la finalidad de ordenar la marcha operativa del Gobierno Regional Piura, a fin de alcanzar los objetivos estratégicos establecidos en el Plan Regional de Desarrollo Concertado, se requieren implementar medidas urgentes para diseñar una estructura orgánica que permita la optimización de los recursos financieros y con ello poner al servicio del ciudadano el Gobierno Regional, solicitando al Consejo Regional se trate en sesión de Consejo el tema de la Reestructuración el Gobierno Regional Piura;
+Que, estando a lo acordado y aprobado por unanimidad en Sesión Extraordinaria Nº 03-2011, de fecha 03 de febrero del 2011, con dispensa del trámite de lectura y aprobación del Acta, el Consejo Regional del Gobierno Regional de Piura en uso de sus facultades y atribuciones conferidas por la Constitución Política del Perú y la Ley Orgánica de los Gobiernos Regionales y sus modificatorias;
+Ha dado la Ordenanza siguiente:
+ORDENANZA REGIONAL QUE DECLARA EN REESTRUCTURACIÓN EL GOBIERNO REGIONAL
+PIURA
