@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 202-2011/GRP-CR
+El Consejo Regional del Gobierno Regional Piura;
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Piura, de conformidad con lo previsto en la Constitución Política del Perú de 1993, modificada por la Ley de Reforma Constitucional del Capítulo XIV, del Título IV, sobre Descentralización – Ley Nº 27680, Ley de Bases de la Descentralización – Ley Nº 27783, Ley Orgánica de Gobiernos Regionales – Ley Nº 27867 y su modificatoria, Ley Nº 27902 y demás Normas Complementarias, Ley General de Turismo - Ley Nº 29408;
+CONSIDERANDO:
+Que, la Constitución Política del Perú, modificada por Ley Nº 27680 – Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización y Ley Nº 28607, en su artículo 191° establece que los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia; y en su artículo 192° inciso 1), dispone que los Gobiernos Regionales son competentes para aprobar su organización interna y su presupuesto;
+Que, la Ley Orgánica de Gobiernos Regionales N° 27867, en el literal a) del artículo 15° establece que son atribuciones del Consejo Regional, el aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de su competencia y funciones del Gobierno Regional;
+Que, la lucha contra la corrupción, es una política de Estado que compromete a los tres niveles de gobierno a desarrollar esfuerzos conjuntos para propiciar políticas de gestión en los organismos públicos y privados, así como en la ciudadanía en general, para la generación de una cultura de prevención y erradicación de los actos de corrupción;
+Que, con Acuerdo de Consejo Regional N° 678-2011/ GRP-CR del 04 de enero de 2011, visto el pedido del Señor Presidente del Gobierno Regional, sobre implementación de un Sistema Regional de Lucha contra la Corrupción, y el encargo hecho al Secretario del Consejo Regional para su formulación, se dio un plazo de quince (15) días para que se presente un avance de la propuesta de Proyecto de Creación del Sistema Regional de Lucha Contra la Corrupción, con la finalidad de poder avanzar en una propuesta definitiva a ser presentada al Presidente del Gobierno Regional Piura en el plazo de sesenta (60) días;
+Que, mediante Informe N° 003-2011/GRP-200010 del 12 de enero de 2011, la Secretaría del Consejo Regional presenta el Avance de Ante Proyecto de Creación del Sistema Regional Contra la Corrupción;
+Que, estando a lo acordado y aprobado por unanimidad en Sesión Extraordinaria Nº 05-2011, de fecha 02 de marzo del 2011, con dispensa del trámite de lectura y aprobación del Acta, el Consejo Regional del Gobierno Regional de Piura en uso de sus facultades y atribuciones conferidas por la Constitución Política del Perú y la Ley Orgánica de los Gobiernos Regionales y sus modificatorias;
+HA DADO LA ORDENANZA SIGUIENTE:
+ORDENANZA REGIONAL QUE CREA EL SISTEMA REGIONAL DE LUCHA CONTRA LA CORRUPCIÓN
