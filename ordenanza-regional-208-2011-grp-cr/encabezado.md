@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 208-2011/GRP-CR
+El Consejo Regional del Gobierno Regional Piura;
+POR CUANTO:
+De conformidad con lo previsto en los Artículos 191º y 192º de la Constitución Política del Estado, modificada por la Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización - Ley Nº 27680; la Ley de Bases de la Descentralización - Ley Nº 27783; la Ley Orgánica de Gobiernos Regionales - Ley Nº 27867, sus modificatorias - Ley Nº 27902, Ley Nº 28013, Ley Nº 28926, Ley Nº 28961, Ley Nº 28968 y Ley Nº 29053; y demás normas complementarias.
+CONSIDERANDO:
+Que, la Constitución Política del Perú, modificada por Ley Nº 27680 – Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización y Ley Nº 28607, en su artículo 191º establece que los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia;
+Que, la Ley Orgánica de Gobiernos Regionales Nº 27867, en el literal a) del artículo 15º establece que son atribuciones del Consejo Regional, el aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de su competencia y funciones del Gobierno Regional; y su artículo 21º, literal a) establece como atribuciones de la Presidencia Regional, dirigir y supervisar la marcha del Gobierno Regional y de sus órganos ejecutivos, administrativos y técnicos;
+Que, con Ordenanza Regional Nº 010-2003/GOB.REG. PIURA-CR, publicada en el Diario Oficial “El Peruano” el 30 de agosto de 2003 se aprobó el Logotipo Oficial del Gobierno Regional Piura, seleccionado en el proceso de calificación realizado a través del Concurso Nacional convocado por el Gobierno Regional Piura;
+Que, con Memorándum Nº 289-2011/GRP-100010 del 07 de abril de 2011, Secretaría General del Gobierno Regional Piura solicita aprobar un nuevo logotipo oficial del Gobierno Regional Piura, señalando que de acuerdo con los lineamientos para la nueva imagen institucional, la actual gestión regional propone sustituir el actual logotipo, aprobado por Ordenanza Regional Nº 01-2003/GOB.REG.PIURA-CR, por uno nuevo, que de acuerdo a las atribuciones de la Presidencia Regional, será aprobado a través del acto administrativo correspondiente;
+Que, estando a lo acordado y aprobado por unanimidad, en Sesión Extraordinaria Nº 11-2011, de fecha 11 de mayo del 2011, con dispensa del trámite de lectura y aprobación del Acta, el Consejo Regional del Gobierno Regional de Piura en uso de sus facultades y atribuciones conferidas por la Constitución Política del Perú y la Ley Orgánica de los Gobiernos Regionales;
+Ha dado la Ordenanza Regional siguiente:
+DEROGAN ORDENANZA REGIONAL Nº 010-2003/GOB.REG.PIURA-CR
