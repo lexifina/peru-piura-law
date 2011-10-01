@@ -1,0 +1,1 @@
+Artículo Tercero.- La Gerencia Regional de Desarrollo Económico deberá informar semestralmente al Consejo Regional sobre el cumplimiento de las funciones que desarrolle el CCRT, y propiciará que los presupuestos institucionales que se asignen a la Dirección Regional de Comercio Exterior y Turismo contemplen las metas para el trabajo del CCRT.
