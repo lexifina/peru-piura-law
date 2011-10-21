@@ -1,0 +1,1 @@
+Artículo Tercero.- La Gerencia Regional de Desarrollo Económico deberá informar semestralmente al Consejo Regional sobre el cumplimiento de las funciones que desarrolle el Comité Ejecutivo Regional Exportador – CERX de Piura.
