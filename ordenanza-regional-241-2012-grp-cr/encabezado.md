@@ -1,0 +1,16 @@
+ORDENANZA REGIONAL
+Nº 241-2012/GRP-CR
+El Consejo Regional del Gobierno
+Regional Piura
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Piura, de conformidad con lo previsto en la Constitución Política del Perú de 1993, modificada por la Ley de Reforma Constitucional del Capítulo XIV, del Título IV, sobre Descentralización – Ley Nº 27680, Ley de Bases de la Descentralización – Ley Nº 27783, Ley Orgánica de Gobiernos Regionales – Ley Nº 27867 y su modificatoria, Ley Nº 27902 y demás Normas Complementarias;
+CONSIDERANDO:
+Que, el artículo 191º de la Constitución Política del Perú, modificada por Ley de Reforma Constitucional del Capítulo XIV del Título IV sobre Descentralización - Ley Nº 27680, establece que los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia; y el artículo 192º en su inciso 1) establece que los Gobiernos Regionales son competentes para aprobar su organización interna y su presupuesto;
+Que, el Artículo 35º de la Ley de Bases de la Descentralización Nº 27783, establece que los Gobiernos Regionales son competentes para aprobar su organización interna y su presupuesto institucional conforme a la Ley de Gestión Presupuestaria del Estado y las Leyes Anuales de Presupuesto;
+Que, mediante el Decreto Supremo Nº 043-2006-PCM del fecha 26 de julio del 2006, se aprobaron los Lineamientos para la elaboración y aprobación del Reglamento de Organización y Funciones - ROF de las Entidades de la Administración Pública;
+Que, a través de la Vigésima Novena Disposición Complementaria y Final de la Ley Nº 29626, Ley de Presupuesto para el Sector Público para el año Fiscal 2011, se crearon las unidades ejecutoras: Educación UGEL de Talara, Educación UGEL de Paita, Educación UGEL Morropón, y Educación UGEL Ayabaca, en el Pliego Gobierno Regional del Departamento de Piura;
+Que, con Oficio Nº 01186-2011/GOB.REG.P-DREP-UGEL-T-D, de fecha 18 de octubre del 2011, la Unidad Ejecutora Educación UGEL Talara, remite a la Dirección Regional de Educación la propuesta del Reglamento de Organización y Funciones de la mencionada Unidad Ejecutora; con Informe Nº 007-2012/GOB.REG.PIURA-DREP-DGI-ARAC, de fecha 06 de enero del 2012, la Dirección de Gestión Institucional de la Dirección Regional de Educación, informa que debe procederse a la aprobación del Reglamento de Organización y Funciones de la Unidad Ejecutora Educación Talara;
+Que, mediante Informe Nº 030-2012/GRP-410300 del 02 de Mayo del 2012, la Sub Gerencia Regional de Desarrollo Institucional, emite opinión favorable a la propuesta de ROF; y con Informe Nº 806-2012/GRP-460000 del 25 de mayo del 2012, la Oficina Regional de Asesoría Jurídica, concluye que es procedente la aprobación de la propuesta remitida;
+Que, estando a lo acordado y aprobado por unanimidad, en Sesión Ordinaria Nº 06 - 2012, de fecha 27 de junio del 2012, con dispensa del trámite de lectura y aprobación del Acta, el Consejo Regional del Gobierno Regional de Piura en uso de sus facultades y atribuciones conferidas por la Constitución Política del Perú y la Ley Orgánica de los Gobiernos Regionales;
+Ha dado la Ordenanza Regional siguiente:
+ORDENANZA QUE APRUEBA EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONES - ROF DE LA UNIDAD EJECUTORA EDUCACIÓN UGEL TALARA
