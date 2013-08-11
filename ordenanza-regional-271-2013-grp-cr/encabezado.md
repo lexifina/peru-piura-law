@@ -1,0 +1,16 @@
+ORDENANZA REGIONAL
+Nº 271-2013/GRP-CR
+El Consejo Regional del Gobierno
+Regional Piura;
+POR CUANTO:
+De conformidad con lo previsto en los artículos 191º y 192º de la Constitución Política del Perú modificada por Ley de Reforma Constitucional Nº 27680; en la Ley de Bases de la Descentralización, Ley Nº 27783; en la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 y sus modificatorias - Ley Nº 27902, Ley Nº 28013, Ley Nº 28926, Ley Nº 28961, Ley Nº 28968, Ley Nº 29053 y demás normas complementarias y;
+CONSIDERANDO:
+Que, el artículo 191º y 192º de la Constitución Política del Perú, modificada por la Ley de Reforma Constitucional, Ley Nº 27680, establecen, respectivamente, que los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia y que son competentes para aprobar su organización interna y su presupuesto;
+Que, mediante Resolución Ejecutiva Regional Nº 859-2004/GOBIERNO REGIONAL PIURA-PR del 15 de noviembre de 2004, se aprobó el Reglamento de Organización y Funciones – ROF de la Dirección Regional de Salud Piura; con Resolución Directoral Nº 0095-11/GOB.REG.PIURA-DRSP-OEPE del 18 de mayo de 2011 se conformó el Equipo Técnico de la Dirección Regional de Salud Piura, responsable de presentar la propuesta de Restructuración de la Dirección Regional de Salud Piura;
+Que, mediante Oficio Nº 3301-2012/GOB.REG. PIURA-DRSP-OEPE del 05 de diciembre de 2012, la Dirección Regional de Salud remite la propuesta de Reglamento de Organización y Funciones – ROF, elaborado por el Equipo Técnico encargado de culminar la propuesta de reestructuración de la Dirección Regional de Salud;
+Que, mediante Informe Nº 043-2013/GRP-410300 del 15 de marzo de 2013, ampliado con Memorando Nº 162-2013/GRP-410300 del 24 de junio de 2013, la Sub Gerencia Regional de Desarrollo Institucional de la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial del Gobierno Regional Piura, concluye por su conformidad con el glosado proyecto de Reglamento de Organización y Funciones -ROF de la Dirección Regional de Salud Piura - DIRESA; y, con Informe Nº 1396-2013/GRP-460000 de fecha 16 de julio del 2013, la Oficina Regional de Asesoría Jurídica del Gobierno Regional Piura, emite opinión legal, concluyendo que es procedente la aprobación del acotado proyecto de Reglamento de Organización y Funciones, por lo que compete al Consejo Regional emitir la Ordenanza Regional correspondiente;
+Que, con Informe Nº 043-2013/GRP-200010-ACCR del 22 de julio de 2013, el Equipo de Apoyo a Comisiones del Consejo Regional da opinión favorable a la propuesta del Reglamento de Organización y Funciones de la Dirección Regional de Salud;
+Que, estando a lo acordado y aprobado por unanimidad, en Sesión Ordinaria Nº 07-2013, de fecha 24 de julio de 2013, con la dispensa del trámite de lectura y aprobación del Acta, el Consejo Regional del Gobierno Regional de Piura, en uso de las facultades y atribuciones conferidas por la Constitución Política del Perú y la Ley Orgánica de los Gobiernos Regionales;
+Ha dado la siguiente Ordenanza Regional:
+ORDENANZA REGIONAL QUE APRUEBA EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONES - ROF DE LA DIRECCIÓN
+REGIONAL DE SALUD PIURA
