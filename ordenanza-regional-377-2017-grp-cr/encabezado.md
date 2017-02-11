@@ -1,0 +1,23 @@
+ORDENANZA REGIONAL
+N° 377-2017/GRP-CR
+EL CONSEJO REGIONAL DEL GOBIERNO
+REGIONAL PIURA;
+POR CUANTO:
+De conformidad con lo previsto en los artículos 191° y 192° de la Constitución Política del Estado, modificada por la Ley de Reforma Constitucional, del Capítulo XIV del Título IV sobre Descentralización - Ley N° 27680; la Ley de Bases de la Descentralización - Ley N° 27783; la Ley Orgánica de Gobiernos Regionales - Ley N° 27867, sus modificatorias - Ley N° 27902; Ley N° 28013; Ley N° 28926; Ley N° 28961; Ley N° 28968 y Ley N° 29053, y demás normas complementarias.
+CONSIDERANDO:
+Que, el artículo 191 de la Constitución Política del Perú, establece expresamente que “Los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia”;
+Que, el numeral 6) de la precitada carta fundamental, establece que “los gobiernos regionales promueven el desarrollo y la economía regional, fomentan las inversiones, actividades y servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y locales de desarrollo. Son competentes para:
+6) Dictar las normas inherentes a la gestión regional”;
+Que, el inciso m), numeral 1) del articulo10 de la Ley Nº 27867, Orgánica de Gobiernos Regionales, establece que “Los gobiernos regionales ejercen las competencias exclusivas y compartidas que les asignan la Constitución Política del Perú, la Ley de Bases de la Descentralización y la presente Ley, así como las competencias delegadas que acuerden entre ambos niveles de gobierno. 1) Competencias Exclusivas. m) Dictar las normas sobre los asuntos y materias de su responsabilidad, y proponer las iniciativas legislativas correspondientes”;
+Que, así mismo, el inciso a) del artículo 15 de la mencionada ley, señala que “Son atribuciones del Consejo Regional: a) Aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional”;
+Que, el inciso a) del artículo 37 del mismo cuerpo legal, establece que “Los Gobiernos Regionales, a través de sus órganos de gobierno, dictan las normas y disposiciones siguientes: a) El Consejo Regional: Ordenanzas Regionales y Acuerdos del Consejo Regional”;
+Que, el inciso a) del Artículo 53 de la citada ley orgánica, prescribe que son funciones en materia ambiental y de ordenamiento territorial: a) Formular, aprobar, ejecutar, evaluar, dirigir, controlar y administrar los planes y políticas en materia ambiental y de ordenamiento territorial, en concordancia con los planes de los Gobiernos Locales;
+Que, el Artículo 10.1 de la Ley Nº 27783, Bases de la Descentralización, señala que “La normatividad que aprueben los distintos niveles de gobierno en el marco de sus atribuciones y competencias exclusivas, son de cumplimiento obligatorio en sus respectivas jurisdicciones”;
+Que, el inciso m) del artículo 35 de la precitada ley, establece que son competencias exclusivas de los gobiernos regionales, m) Dictar las normas sobre los asuntos y materias de su responsabilidad, y proponer las iniciativas legislativas correspondientes”;
+Que, es costumbre en el Perú desde el año 1963, otorgar una denominación a cada año calendario. Algunas regiones del país, en el marco de las políticas de descentralización, han hecho lo propio denominando determinados años con algún motivo significativo, como ha ocurrido con los Gobiernos Regionales de Junín, Apurímac y Pasco;
+Que, es necesario y procedente establecer la denominación regional de cada año cuyo objeto sea poner en valor y difundir hechos históricos relevantes, grandes acciones humanas, lugares emblemáticos, anhelos colectivos y obras de interés público en el ámbito de la Región Piura, como atribución de este gobierno regional;
+Que, por ser el presente el primer año en designarse oficialmente en la región Piura, conforme a lo recomendado por el Equipo de Apoyo a Comisiones del Consejo Regional Piura, mediante Informe N° 002- 2017/GRP-200010-ACCR de fecha 23 de enero de 2017, debe rendir homenaje al Gran Almirante Miguel Grau Seminario, “hijo predilecto de Piura”, “caballero de los mares” y “peruano del milenio”, como se conoce al más grande de todos los peruanos.
+Que, estando a lo acordado y aprobado, por unanimidad, en Sesión Extraordinaria N° 02 - 2017, de fecha 01 de febrero de 2017, en la ciudad de Piura, el Consejo Regional del Gobierno Regional de Piura en uso de sus facultades y atribuciones conferidas por la Constitución Política del Perú y las leyes de la República;
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
+ORDENANZA REGIONAL QUE INSTITUCIONALIZA LA DENOMINACIÓN DE CADA AÑO Y DECLARA A
+MIGUEL GRAU, “PIURANO DEL MILENIO”
