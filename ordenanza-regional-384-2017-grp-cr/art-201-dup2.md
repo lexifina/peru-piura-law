@@ -1,0 +1,2 @@
+Artículo 201º.- Del Proyecto Especial de Irrigación e Hidroenergético del Alto Piura
+El Proyecto Especial de Irrigación e Hidroenergético del Alto Piura, es un órgano desconcentrado del Gobierno Regional Piura, constituye una Unidad Ejecutora con personería jurídica, cuenta con autonomía técnica, económica y administrativa. Para los efectos de coordinación institucional depende funcional y jerárquicamente de la Gobernación Regional.
