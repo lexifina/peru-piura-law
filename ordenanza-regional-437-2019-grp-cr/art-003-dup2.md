@@ -1,0 +1,1 @@
+Artículo Tercero.- Encargar a la Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente, realizar los estudios correspondientes para la implementación de un Zoocriadero en el Área de Conservación Regional – Bosques Secos Salitral Huarmaca.
