@@ -1,0 +1,1 @@
+Artículo Segundo.- ENCARGAR a la Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente de la sede regional así como las Direcciones Regionales implementen la presente ordenanza regional, de acuerdo a las funciones que le han sido transferidas en el marco del proceso de descentralización y aquellas que le han sido otorgadas por Ley.
