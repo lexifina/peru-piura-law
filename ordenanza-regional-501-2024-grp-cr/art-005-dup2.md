@@ -1,0 +1,4 @@
+Artículo Quinto.- El Consejo Regional de Competitividad y Productividad (CRCP) de la Región Piura, con la finalidad de desarrollar e implementar juntamente con el sector privado y la sociedad civil, realiza las siguientes acciones:
+a. Elaborar y aprobar la propuesta del Plan Regional de Competitividad y Productividad de Piura al 2030.
+b. Integrar a la región Piura en la economía nacional y global, mediante el impulso de la competitividad y productividad, revirtiendo las brechas económicassociales y generando mejores y mayores niveles de empleo, así como elevar sosteniblemente los niveles de bienestar y calidad de vida de la población, en el marco de la implementación del Plan Regional de Competitividad y Productividad de Piura al 2030.
+c. Evaluar la inclusión de otras acciones que se requieran para el adecuado desarrollo, implementación, seguimiento y evaluación del Plan Regional de Competitividad y Productividad de Piura al 2030.
