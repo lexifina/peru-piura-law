@@ -1,0 +1,1 @@
+Artículo Segundo.- Alcanzar la presente Ordenanza Regional al Ministerio de Vivienda, Construcción y Saneamiento, Municipalidad Provincial de Paita, Municipalidad Provincial de Talara, EPS Grau, y demás interesados.

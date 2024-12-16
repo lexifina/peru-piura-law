@@ -1,0 +1,1 @@
+Artículo Primero.- DECLARAR de necesidad e interés público regional, la modernización y ampliación de la Planta de Tratamiento de Agua Potable de El Arenal, conforme a lo señalado en la Ley N° 31485, de fecha 26 de mayo de 2022.
