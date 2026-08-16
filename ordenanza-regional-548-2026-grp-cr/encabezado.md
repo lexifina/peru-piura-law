@@ -1,0 +1,19 @@
+CONSEJO REGIONAL
+ORDENANZA REGIONAL
+Nº 548-2026/GRP-CR
+El Consejo Regional del Gobierno Regional Piura;
+POR CUANTO:
+De conformidad con lo previsto en los artículos 191º y 192º de la Constitución Política del Estado, modificada por la Ley de Reforma Constitucional Nº 27680; la Ley de Bases de la Descentralización, Ley Nº 27783; en la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 y sus modificatorias - Ley Nº 27902, Ley Nº 28013, Ley Nº 28926, Ley Nº 28961, Ley Nº 28968 y Ley Nº 29053 y demás normas complementarias y;
+CONSIDERANDO:
+Que, la Ley Orgánica de Gobiernos Regionales N° 27867, en el artículo 15º inciso a), establece que son atribuciones del Consejo Regional: “Aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional”;
+Que, mediante Ordenanza Regional N° 040-2004/ GRP-CR del 12 de agosto de 2004, se creó el Consejo Regional de la Juventud con la intención de dar un espacio de apertura a los jóvenes y tomar conocimiento de sus necesidades, aprobándose su organización interna;
+Que, a través de la Ordenanza Regional N° 240-2012/GRP-CR, publicada en el diario oficial El Peruano el 05 de julio de 2012, se dispone la reestructuración y modernización del Consejo Regional de la Juventud, derogándose la Ordenanza Regional N° 040-2004/GRP-CR;
+Que, mediante Decreto Supremo N° 013-2019-MINEDU, que aprueba la Política Nacional de la Juventud, se establece en su Objetivo Prioritario 6, la necesidad de incrementar la participación ciudadana juvenil a través de procesos de elección democrática, superando los modelos de designación vertical;
+Que, mediante Memorando N° 466-2026/GRP-430000 del 25 de marzo de 2026, la Gerencia Regional de Desarrollo Social remite el Informe N° 013-2026/ GRP-430000-JLMS del 12 de marzo de 2026, de la Coordinación de la Unidad Funcional de Juventudes, que contiene la propuesta que deroga la Ordenanza Regional N° 240-2012/GRP-CR y fortalece la estructura del Consejo Regional de la Juventud;
+Que, con Informe N° 644-2026/GRP-460000 del 08 de mayo de 2026, la Oficina Regional de Asesoría Jurídica emite opinión legal favorable a la propuesta presentada, señalando que resulta factible derivar al Consejo Regional esta propuesta de ordenanza regional para su evaluación y consideración; y, con Memorando N° 324-2026/GRP-400000 del 08 de mayo de 2026, Gerencia General Regional deriva el presente expediente al Consejo Regional;
+Que, con Memorando N° 972-2026/GRP-430000 del 19 de mayo de 2026, la Gerencia Regional de Desarrollo Social alcanza el Informe N° 032-2026/GRP-430000-UFJ-JLMS del 18 de mayo de 2026 por el cual se absuelve el pedido de aclaración de algunos puntos de la propuesta, realizado con Memorando N° 931-2026/GRP-200010 del 12 de mayo de 2026 de la Secretaría del Consejo Regional;
+Que, mediante Informe N° 043-2026/GRP-CRP-EACCR (HRyC N° 23556) del 25 de mayo de 2026, el Equipo de Apoyo a Comisiones del Consejo Regional emite opinión favorable a la presente propuesta; y, con Dictamen N° 02-2026/GRP-CR-CDS de fecha 02 de junio de 2026, la Comisión de Desarrollo Social recomienda al Pleno del Consejo Regional, considere la aprobación de la presente propuesta;
+Que, estando a lo acordado y aprobado por unanimidad, en Sesión Extraordinaria N° 11-2026 de fecha 17 de junio de 2026 en la ciudad de San Miguel de Piura, el Consejo Regional del Gobierno Regional de Piura, en uso de sus facultades y atribuciones conferidas por la Constitución Política del Estado, y la Ley Orgánica de Gobiernos Regionales N° 27867, y sus modificatorias Ley N° 27902, Ley N° 28961, Ley N° 28968 y Ley N° 29053;
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
+ORDENANZA REGIONAL QUE
+FORTALECE LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DEL CONSEJO REGIONAL DE LA JUVENTUD DE PIURA – COREJU Y DEROGA LA ORDENANZA REGIONAL N° 240-2012/GRP-CR
