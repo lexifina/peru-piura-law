@@ -216,20 +216,44 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-269-2013-grp-cr` | Ordenanza Regional N° 269-2013/GRP-CR: Ordenanza Regional que aprueba el Programa Regional de Población - Piura 2013 - 2016 | 1 | 2013-07-26 to 2013-07-26 |
 | `ordenanza-regional-308-2015-grp-cr` | Ordenanza Regional N° 308-2015/GRP-CR: Ordenanza Regional que precisa la nueva denominación de Gobernador Regional en los diversos documentos de gestión del Gobierno Regional Piura | 1 | 2015-04-03 to 2015-04-03 |
 | `ordenanza-regional-306-2015-grp-cr` | Ordenanza Regional N° 306-2015/GRP-CR: Rectifica Ordenanza Regional N° 305-2014/GRP-CR por error material en numeración del Reglamento de Organización y Funciones - ROF de la Dirección Regional de Educación de Piura | 1 | 2015-03-19 to 2015-03-19 |
+| `ordenanza-regional-461-2021-grp-cr` | Ordenanza Regional N° 461-2021/GRP-CR: Ordenanza Regional que modifica la Ordenanza Regional N° 350-2016/GRP-CR. que aprueba la creación del "Consejo de Representantes de las Zonas de Producción Acuícola de la Bahía de Sechura" | 1 | 2021-05-30 to 2021-05-30 |
+| `ordenanza-regional-460-2021-grp-cr` | Ordenanza Regional N° 460-2021/GRP-CR: Ordenanza Regional que modifica el “Reglamento Interno del Consejo Regional del Gobierno Regional Piura”, aprobado mediante Ordenanza Regional N° 212-2011/GRP-CP | 1 | 2021-05-30 to 2021-05-30 |
+| `ordenanza-regional-456-2020-grp-cr` | Ordenanza Regional N° 456-2020/GRP-CR: Ordenanza Regional que aprueba el Reglamento que establece el procedimiento de atención de denuncias ambientales en el Gobierno Regional Piura | 1 | 2020-12-06 to 2020-12-06 |
+| `ordenanza-regional-451-2020-grp-cr` | Ordenanza Regional N° 451-2020/GRP-CR: Ordenanza Regional que aprueba la modificación en la conformación del Consejo Regional de la Micro y Pequeña Empresa de la Región Piura - COREMYPE | 1 | 2020-06-21 to 2020-06-21 |
+| `ordenanza-regional-446-2019-grp-cr` | Ordenanza Regional N° 446-2019/GRP-CR: Ordenanza Regional que declara de interés regional la atención integral de las personas adultas mayores y aprueba la creación del Consejo Regional para las Personas Adultas Mayores | 1 | 2019-12-22 to 2019-12-22 |
+| `ordenanza-regional-444-2019-grp-cr` | Ordenanza Regional N° 444-2019/GRP-CR: Ordenanza Regional que promueve la difusión de mensajes de acciones de sensibilización y concientización contra delitos aduaneros y piratería | 1 | 2019-10-21 to 2019-10-21 |
+| `ordenanza-regional-439-2019-grp-cr` | Ordenanza Regional N° 439-2019/GRP-CR: Ordenanza Regional que aprueba el Plan Regional contra la Trata de Personas en la Región Piura 2019 - 2022 | 1 | 2019-06-23 to 2019-06-23 |
+| `ordenanza-regional-432-2019-grp-cr` | Ordenanza Regional N° 432-2019/GRP-CR: Ordenanza Regional que aprueba el Plan Estratégico Regional de Turismo de Piura 2019 - 2025 - PERTUR PIURA | 1 | 2019-03-02 to 2019-03-02 |
+| `ordenanza-regional-430-2018-grp-cr` | Ordenanza Regional N° 430-2018/GRP-CR: Ordenanza Regional que conforma la Comisión Técnica del Gobierno Regional Piura para la implementación del Plan Nacional de Desarrollo para la Población Afrodescendientes | 1 | 2018-12-16 to 2018-12-16 |
+| `ordenanza-regional-423-2018-grp-cr` | Ordenanza Regional N° 423-2018/GRP-CR: Ordenanza Regional que aprueba la creación de la Unidad Ejecutora “Instituto Superior Tecnológico Público Luciano Castillo Colonna" de la provincia de Talara y su Reglamento de Organización y Funciones -ROF | 1 | 2018-08-16 to 2018-08-16 |
+| `ordenanza-regional-412-2018-grp-cr` | Ordenanza Regional N° 412-2018/GRP-CR: Ordenanza Regional que aprueba el Plan Regional Exportador - PERX Piura al 2025 | 1 | 2018-03-05 to 2018-03-05 |
+| `ordenanza-regional-410-2018-grp-cr` | Ordenanza Regional N° 410-2018/GRP-CR: Ratifican el Plan Regional de Seguridad Ciudadana 2018 | 1 | 2018-02-23 to 2018-02-23 |
+| `ordenanza-regional-320-2015-grp-cr` | Ordenanza Regional N° 320-2015/GRP-CR: Ordenanza que precisa lo dispuesto por la Ordenanza Regional N° 267-2013/GRP-CR | 1 | 2015-07-16 to 2015-07-16 |
+| `ordenanza-regional-316-2015-grp-cr` | Ordenanza Regional N° 316-2015/GRP-CR: Ordenanza que aprueba Lineamientos de Política para el Ordenamiento Territorial de la Región Piura | 1 | 2015-06-15 to 2015-06-15 |
+| `ordenanza-regional-315-2015-grp-cr` | Ordenanza Regional N° 315-2015/GRP-CR: Ordenanza que aprueba el inicio del Proceso de Planeamiento para la Actualización de Plan de Desarrollo Regional Concertado 2013 - 2016 | 1 | 2015-05-29 to 2015-05-29 |
+| `ordenanza-regional-314-2015-grp-cr` | Ordenanza Regional N° 314-2015/GRP-CR: Ordenanza Regional que declara de Interés Regional al “X Congreso Nacional Eucarístico y Mariano - Piura 2015” | 1 | 2015-05-17 to 2015-05-17 |
+| `ordenanza-regional-312-2015-grp-cr` | Ordenanza Regional N° 312-2015/GRP-CR: Ordenanza que aprueba el Reglamento de Organización y Funciones - ROF del Hospital de Apoyo II-2 Sullana | 1 | 2015-05-17 to 2015-05-17 |
+| `ordenanza-regional-311-2015-grp-cr` | Ordenanza Regional N° 311-2015/GRP-CR: Ordenanza que regula el proceso del Presupuesto Participativo Regional Basado en Resultados y da inicio al Proceso correspondiente al Año Fiscal 2016 | 1 | 2015-04-21 to 2015-04-21 |
+| `ordenanza-regional-310-2015-grp-cr` | Ordenanza Regional N° 310-2015/GRP-CR: Ordenanza que aprueba el Reglamento de Organización y Funciones -ROF - de la Dirección Regional de Energía y Minas del Gobierno Regional Piura | 1 | 2015-04-12 to 2015-04-12 |
+| `ordenanza-regional-309-2015-grp-cr` | Ordenanza Regional N° 309-2015/GRP-CR: Ordenanza que aprueba la modificación de los Cuadros para Asignación de Personal Provisional de las Unidades Ejecutoras de Salud del Gobierno Regional Piura | 1 | 2015-04-12 to 2015-04-12 |
+| `ordenanza-regional-307-2015-grp-cr` | Ordenanza Regional N° 307-2015/GRP-CR: Ordenanza Regional que aprueba el Reglamento de Organización y Funciones - ROF de la Dirección Regional de Trabajo y Promoción del Empleo | 1 | 2015-03-30 to 2015-03-30 |
+| `ordenanza-regional-280-2013-grp-cr` | Ordenanza Regional N° 280-2013/GRP-CR: Constituyen el Consejo Regional de Productos Orgánicos en la Región Piura -COREPO PIURA | 1 | 2013-11-25 to 2013-11-25 |
+| `ordenanza-regional-278-2013-grp-cr` | Ordenanza Regional N° 278-2013/GRP-CR: Constituyen Consejo Regional de Pesca y Acuicultura en la Región Piura - COREPESCA | 1 | 2013-11-23 to 2013-11-23 |
+| `ordenanza-regional-277-2013-grp-cr` | Ordenanza Regional N° 277-2013/GRP-CR: Declaran de necesidad pública e interés regional la masificación del gas natural en la Región Piura | 1 | 2013-10-27 to 2013-10-27 |
 
-The build made 202 commits:
+The build made 226 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 202 | first version of an act |
+| 226 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 202 laws in the record.
-- 404 tags.
+- 226 laws in the record.
+- 452 tags.
 
 ## Dates
 
@@ -241,13 +265,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `92ac9e30e925622bbbd1fc54d9f06c326b5ec896468cb6ed1eb8036833f5606d` (2496701 bytes).
+- Corpus: sha256 `016ce3ff5416c37815e3b8265a43059113562c6c4bac70d9348bfa04c033211b` (2829308 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-202 versions of 202 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

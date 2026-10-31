@@ -246,6 +246,35 @@
     "ordenanza-regional-313-2015-grp-cr"
    ],
    "sha256": "ef6aca224caff33fc0b14fbf800354d743bd8a841946da641eb37c062ae1dfe5"
+  },
+  "33-runner-02.json": {
+   "acts": [
+    "ordenanza-regional-277-2013-grp-cr",
+    "ordenanza-regional-278-2013-grp-cr",
+    "ordenanza-regional-280-2013-grp-cr",
+    "ordenanza-regional-307-2015-grp-cr",
+    "ordenanza-regional-309-2015-grp-cr",
+    "ordenanza-regional-310-2015-grp-cr",
+    "ordenanza-regional-311-2015-grp-cr",
+    "ordenanza-regional-312-2015-grp-cr",
+    "ordenanza-regional-314-2015-grp-cr",
+    "ordenanza-regional-315-2015-grp-cr",
+    "ordenanza-regional-316-2015-grp-cr",
+    "ordenanza-regional-320-2015-grp-cr",
+    "ordenanza-regional-410-2018-grp-cr",
+    "ordenanza-regional-412-2018-grp-cr",
+    "ordenanza-regional-423-2018-grp-cr",
+    "ordenanza-regional-430-2018-grp-cr",
+    "ordenanza-regional-432-2019-grp-cr",
+    "ordenanza-regional-439-2019-grp-cr",
+    "ordenanza-regional-444-2019-grp-cr",
+    "ordenanza-regional-446-2019-grp-cr",
+    "ordenanza-regional-451-2020-grp-cr",
+    "ordenanza-regional-456-2020-grp-cr",
+    "ordenanza-regional-460-2021-grp-cr",
+    "ordenanza-regional-461-2021-grp-cr"
+   ],
+   "sha256": "26c9bbb6f34d86f97f7c164d985fa3d716f0f1dcea3cd614e5ac271f261dc456"
   }
  },
  "schema": 1

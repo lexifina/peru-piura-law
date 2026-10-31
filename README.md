@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-202 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+226 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -214,6 +214,30 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-269-2013-grp-cr/` | Ordenanza Regional N° 269-2013/GRP-CR: Ordenanza Regional que aprueba el Programa Regional de Población - Piura 2013 - 2016 | in force 26 July 2013 |
 | `ordenanza-regional-308-2015-grp-cr/` | Ordenanza Regional N° 308-2015/GRP-CR: Ordenanza Regional que precisa la nueva denominación de Gobernador Regional en los diversos documentos de gestión del Gob… | in force 3 April 2015 |
 | `ordenanza-regional-306-2015-grp-cr/` | Ordenanza Regional N° 306-2015/GRP-CR: Rectifica Ordenanza Regional N° 305-2014/GRP-CR por error material en numeración del Reglamento de Organización y Funcion… | in force 19 March 2015 |
+| `ordenanza-regional-461-2021-grp-cr/` | Ordenanza Regional N° 461-2021/GRP-CR: Ordenanza Regional que modifica la Ordenanza Regional N° 350-2016/GRP-CR. que aprueba la creación del "Consejo de Represe… | in force 30 May 2021 |
+| `ordenanza-regional-460-2021-grp-cr/` | Ordenanza Regional N° 460-2021/GRP-CR: Ordenanza Regional que modifica el “Reglamento Interno del Consejo Regional del Gobierno Regional Piura”, aprobado median… | in force 30 May 2021 |
+| `ordenanza-regional-456-2020-grp-cr/` | Ordenanza Regional N° 456-2020/GRP-CR: Ordenanza Regional que aprueba el Reglamento que establece el procedimiento de atención de denuncias ambientales en el Go… | in force 6 December 2020 |
+| `ordenanza-regional-451-2020-grp-cr/` | Ordenanza Regional N° 451-2020/GRP-CR: Ordenanza Regional que aprueba la modificación en la conformación del Consejo Regional de la Micro y Pequeña Empresa de l… | in force 21 June 2020 |
+| `ordenanza-regional-446-2019-grp-cr/` | Ordenanza Regional N° 446-2019/GRP-CR: Ordenanza Regional que declara de interés regional la atención integral de las personas adultas mayores y aprueba la crea… | in force 22 December 2019 |
+| `ordenanza-regional-444-2019-grp-cr/` | Ordenanza Regional N° 444-2019/GRP-CR: Ordenanza Regional que promueve la difusión de mensajes de acciones de sensibilización y concientización contra delitos a… | in force 21 October 2019 |
+| `ordenanza-regional-439-2019-grp-cr/` | Ordenanza Regional N° 439-2019/GRP-CR: Ordenanza Regional que aprueba el Plan Regional contra la Trata de Personas en la Región Piura 2019 - 2022 | in force 23 June 2019 |
+| `ordenanza-regional-432-2019-grp-cr/` | Ordenanza Regional N° 432-2019/GRP-CR: Ordenanza Regional que aprueba el Plan Estratégico Regional de Turismo de Piura 2019 - 2025 - PERTUR PIURA | in force 2 March 2019 |
+| `ordenanza-regional-430-2018-grp-cr/` | Ordenanza Regional N° 430-2018/GRP-CR: Ordenanza Regional que conforma la Comisión Técnica del Gobierno Regional Piura para la implementación del Plan Nacional … | in force 16 December 2018 |
+| `ordenanza-regional-423-2018-grp-cr/` | Ordenanza Regional N° 423-2018/GRP-CR: Ordenanza Regional que aprueba la creación de la Unidad Ejecutora “Instituto Superior Tecnológico Público Luciano Castill… | in force 16 August 2018 |
+| `ordenanza-regional-412-2018-grp-cr/` | Ordenanza Regional N° 412-2018/GRP-CR: Ordenanza Regional que aprueba el Plan Regional Exportador - PERX Piura al 2025 | in force 5 March 2018 |
+| `ordenanza-regional-410-2018-grp-cr/` | Ordenanza Regional N° 410-2018/GRP-CR: Ratifican el Plan Regional de Seguridad Ciudadana 2018 | in force 23 February 2018 |
+| `ordenanza-regional-320-2015-grp-cr/` | Ordenanza Regional N° 320-2015/GRP-CR: Ordenanza que precisa lo dispuesto por la Ordenanza Regional N° 267-2013/GRP-CR | in force 16 July 2015 |
+| `ordenanza-regional-316-2015-grp-cr/` | Ordenanza Regional N° 316-2015/GRP-CR: Ordenanza que aprueba Lineamientos de Política para el Ordenamiento Territorial de la Región Piura | in force 15 June 2015 |
+| `ordenanza-regional-315-2015-grp-cr/` | Ordenanza Regional N° 315-2015/GRP-CR: Ordenanza que aprueba el inicio del Proceso de Planeamiento para la Actualización de Plan de Desarrollo Regional Concerta… | in force 29 May 2015 |
+| `ordenanza-regional-314-2015-grp-cr/` | Ordenanza Regional N° 314-2015/GRP-CR: Ordenanza Regional que declara de Interés Regional al “X Congreso Nacional Eucarístico y Mariano - Piura 2015” | in force 17 May 2015 |
+| `ordenanza-regional-312-2015-grp-cr/` | Ordenanza Regional N° 312-2015/GRP-CR: Ordenanza que aprueba el Reglamento de Organización y Funciones - ROF del Hospital de Apoyo II-2 Sullana | in force 17 May 2015 |
+| `ordenanza-regional-311-2015-grp-cr/` | Ordenanza Regional N° 311-2015/GRP-CR: Ordenanza que regula el proceso del Presupuesto Participativo Regional Basado en Resultados y da inicio al Proceso corres… | in force 21 April 2015 |
+| `ordenanza-regional-310-2015-grp-cr/` | Ordenanza Regional N° 310-2015/GRP-CR: Ordenanza que aprueba el Reglamento de Organización y Funciones -ROF - de la Dirección Regional de Energía y Minas del Go… | in force 12 April 2015 |
+| `ordenanza-regional-309-2015-grp-cr/` | Ordenanza Regional N° 309-2015/GRP-CR: Ordenanza que aprueba la modificación de los Cuadros para Asignación de Personal Provisional de las Unidades Ejecutoras d… | in force 12 April 2015 |
+| `ordenanza-regional-307-2015-grp-cr/` | Ordenanza Regional N° 307-2015/GRP-CR: Ordenanza Regional que aprueba el Reglamento de Organización y Funciones - ROF de la Dirección Regional de Trabajo y Prom… | in force 30 March 2015 |
+| `ordenanza-regional-280-2013-grp-cr/` | Ordenanza Regional N° 280-2013/GRP-CR: Constituyen el Consejo Regional de Productos Orgánicos en la Región Piura -COREPO PIURA | in force 25 November 2013 |
+| `ordenanza-regional-278-2013-grp-cr/` | Ordenanza Regional N° 278-2013/GRP-CR: Constituyen Consejo Regional de Pesca y Acuicultura en la Región Piura - COREPESCA | in force 23 November 2013 |
+| `ordenanza-regional-277-2013-grp-cr/` | Ordenanza Regional N° 277-2013/GRP-CR: Declaran de necesidad pública e interés regional la masificación del gas natural en la Región Piura | in force 27 October 2013 |
 
 ## Source
 
