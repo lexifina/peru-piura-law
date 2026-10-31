@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-226 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+273 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -238,6 +238,53 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-280-2013-grp-cr/` | Ordenanza Regional N° 280-2013/GRP-CR: Constituyen el Consejo Regional de Productos Orgánicos en la Región Piura -COREPO PIURA | in force 25 November 2013 |
 | `ordenanza-regional-278-2013-grp-cr/` | Ordenanza Regional N° 278-2013/GRP-CR: Constituyen Consejo Regional de Pesca y Acuicultura en la Región Piura - COREPESCA | in force 23 November 2013 |
 | `ordenanza-regional-277-2013-grp-cr/` | Ordenanza Regional N° 277-2013/GRP-CR: Declaran de necesidad pública e interés regional la masificación del gas natural en la Región Piura | in force 27 October 2013 |
+| `ordenanza-regional-276-2013-grp-cr/` | Ordenanza Regional N° 276-2013/GRP-CR: Aprueban Reglamento de Organización y Funciones - ROF de la Dirección Regional de Producción | in force 29 September 2013 |
+| `ordenanza-regional-275-2013-grp-cr/` | Ordenanza Regional N° 275-2013/GRP-CR: Aprueban Plan Regional de Desarrollo Forestal | in force 29 September 2013 |
+| `ordenanza-regional-274-2013-grp-cr/` | Ordenanza Regional N° 274-2013/GRP-CR: Aprueban modificación del Reglamento de Organización y Funciones - ROF del Gobierno Regional Piura, aprobado mediante Ord… | in force 16 September 2013 |
+| `ordenanza-regional-270-2013-grp-cr/` | Ordenanza Regional N° 270-2013/GRP-CR: Ordenanza que aprueba el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional Piura | in force 26 July 2013 |
+| `ordenanza-regional-268-2013-grp-cr/` | Ordenanza Regional N° 268-2013/GRP-CR: Ordenanza Regional que aprueba el Reglamento de Organización y Funciones - ROF del Centro de Exportación, Transformación,… | in force 26 July 2013 |
+| `ordenanza-regional-267-2013-grp-cr/` | Ordenanza Regional N° 267-2013/GRP-CR: Aprueban la creación de la Unidad Ejecutora denominada "Unidad de Gestión Educativa Local - UGEL Huarmaca" | in force 14 June 2013 |
+| `ordenanza-regional-266-2013-grp-cr/` | Ordenanza Regional N° 266-2013/GRP-CR: Regulan el Proceso del Presupuesto Participativo Regional Basado en Resultados correspondiente al Año Fiscal 2014 | in force 9 June 2013 |
+| `ordenanza-regional-263-2013-grp-cr/` | Ordenanza Regional N° 263-2013/GRP-CR: Modifican Ordenanza Regional N° 202-2011/GRP-CR, que crea el Sistema Regional de Lucha contra la Corrupción | in force 6 May 2013 |
+| `ordenanza-regional-264-2013-grp-cr/` | Ordenanza Regional N° 264-2013/GRP-CR: Aprueban modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del Gobierno Regiona… | in force 20 April 2013 |
+| `ordenanza-regional-262-2013-grp-cr/` | Ordenanza Regional N° 262-2013/GRP-CR: Aprueban Plan Estratégico de Desarrollo Regional Concertado (PEDRC), Piura 2013 - 2016 | in force 20 April 2013 |
+| `ordenanza-regional-261-2013-grp-cr/` | Ordenanza Regional N° 261-2013/GRP-CR: Aprueban la Mesozonificación Ecológica Económica del departamento de Piura | in force 30 March 2013 |
+| `ordenanza-regional-260-2013-grp-cr/` | Ordenanza Regional N° 260-2013/GRP-CR: Adecúan la constitución, organización y atribuciones del Comité Consultivo Regional de Turismo Piura (CCRT) y derogan las… | in force 7 March 2013 |
+| `ordenanza-regional-258-2013-grp-cr/` | Ordenanza Regional N° 258-2013/GRP-CR: Aprueban creación de la Unidad Ejecutora "Unidad de Gestión Educativa Local - UGEL Huancabamba" | in force 18 February 2013 |
+| `ordenanza-regional-257-2013-grp-cr/` | Ordenanza Regional N° 257-2013/GRP-CR: Ordenanza que aprueba el Manual de Operaciones del "Proyecto Especial Chira Piura" | in force 3 February 2013 |
+| `ordenanza-regional-256-2012-grp-cr/` | Ordenanza Regional N° 256-2012/GRP-CR: Ordenanza que modifica el Reglamento de Organización y Funciones - ROF del Gobierno Regional Piura | in force 24 January 2013 |
+| `ordenanza-regional-255-2012-grp-cr/` | Ordenanza Regional N° 255-2012/GRP-CR: Ordenanza que aprueba la modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del … | in force 12 January 2013 |
+| `ordenanza-regional-254-2012-grp-cr/` | Ordenanza Regional N° 254-2012/GRP-CR: Ordenanza que aprueba el Reglamento de Organización y Funciones (ROF) del Hospital de la Amistad Perú Corea II-2 Santa Ro… | in force 12 January 2013 |
+| `ordenanza-regional-253-2012-grp-cr/` | Ordenanza Regional N° 253-2012/GRP-CR: Ordenanza que crea el Consejo Consultivo de Niñas, Niños y Adolescentes de la Región Piura - CCONNA Región Piura | in force 12 January 2013 |
+| `ordenanza-regional-252-2012-grp-cr/` | Ordenanza Regional N° 252-2012/GRP-CR: Aprueban la modificación del Cuadro para Asignación de Personal (CAP) de la Dirección Regional de Agricultura aprobado me… | in force 10 January 2013 |
+| `ordenanza-regional-250-2012-grp-cr/` | Ordenanza Regional N° 250-2012/GRP-CR: Aprueban Reglamento de Organización y Funciones - ROF de la Unidad Ejecutora 307 Educación UGEL Morropón | in force 15 December 2012 |
+| `ordenanza-regional-249-2012-grp-cr/` | Ordenanza Regional N° 249-2012/GRP-CR: Ordenanza que crea el Programa Regional de Conservación y Aprovechamiento Sostenible del Patrimonio Forestal - NORBOSQUE … | in force 6 December 2012 |
+| `ordenanza-regional-248-2012-grp-cr/` | Ordenanza Regional N° 248-2012/GRP-CR: Aprueban Reglamento de Organización y Funciones - ROF de la Unidad Ejecutora Educación UGEL Paita | in force 18 November 2012 |
+| `ordenanza-regional-245-2012-grp-cr/` | Ordenanza Regional N° 245-2012/GRP-CR: Crean el Observatorio de la Contrataciones del Estado en la Región | in force 26 October 2012 |
+| `ordenanza-regional-244-2012-grp-cr/` | Ordenanza Regional N° 244-2012/GRP-CR: Aprueban Lineamientos, Políticas y Estrategias Básicas de Agua y Saneamiento en el ámbito rural y pequeñas ciudades en la… | in force 26 October 2012 |
+| `ordenanza-regional-243-2012-grp-cr/` | Ordenanza Regional N° 243-2012/GRP-CR: Implementan la Red Regional de Desarrollo Económico en la Región Piura | in force 14 September 2012 |
+| `ordenanza-regional-241-2012-grp-cr/` | Ordenanza Regional N° 241-2012/GRP-CR: Aprueban Reglamento de Organización y Funciones - ROF de la Unidad Ejecutora Educación UGEL Talara | in force 14 July 2012 |
+| `ordenanza-regional-239-2012-grp-cr/` | Ordenanza Regional N° 239-2012/GRP-CR: Declaran al distrito de Canchaque "Capital del Café Orgánico de la Región Piura" | in force 6 July 2012 |
+| `ordenanza-regional-240-2012-grp-cr/` | Ordenanza Regional N° 240-2012/GRP-CR: Disponen la reestructuración y modernización del Consejo Regional de la Juventud y derogan la Ordenanza Regional N° 040-2… | in force 6 July 2012 |
+| `ordenanza-regional-238-2012-grp-cr/` | Ordenanza Regional N° 238-2012/GRP-CR: Crean el Sistema Regional de Prevención y Atención del Acoso Escolar, la Violencia contra la Mujer, Niñas, Niños y Adoles… | in force 6 July 2012 |
+| `ordenanza-regional-235-2012-grp-cr/` | Ordenanza Regional N° 235-2012/GRP-CR: Aprueban Ordenanza que incorpora eje estratégico de prevención del embarazo en adolescentes en el Plan Regional por los D… | in force 19 April 2012 |
+| `ordenanza-regional-234-2012-grp-cr/` | Ordenanza Regional N° 234-2012/GRP-CR: Crean la condecoración "Región Piura" como distinción del Gobierno Regional Piura | in force 4 March 2012 |
+| `ordenanza-regional-233-2012-grp-cr/` | Ordenanza Regional N° 233-2012/GRP-CR: Ordenanza Regional que dispone medidas preventivas frente a la sobreexposición de los rayos ultravioleta | in force 7 February 2012 |
+| `ordenanza-regional-232-2011-grp-cr/` | Ordenanza Regional N° 232-2011/GRP-CR: Ordenanza que modifica el Reglamento de Organización y Funciones - ROF del Gobierno Regional Piura | in force 29 January 2012 |
+| `ordenanza-regional-231-2011-grp-cr/` | Ordenanza Regional N° 231-2011/GRP-CR: Aprueban Plan Regional de la Juventud de Piura 2012-2016 | in force 6 January 2012 |
+| `ordenanza-regional-227-2011-grp-cr/` | Ordenanza Regional N° 227-2011/GRP-CR: Ordenanza que aprueba la modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del … | in force 1 December 2011 |
+| `ordenanza-regional-229-2011-grp-cr/` | Ordenanza Regional N° 229-2011/GRP-CR: Crean las Veedurías Ciudadanas en el ámbito jurisdiccional del Gobierno Regional Piura | in force 25 November 2011 |
+| `ordenanza-regional-228-2011-grp-cr/` | Ordenanza Regional N° 228-2011/GRP-CR: Declaran de prioridad e interés regional el proceso de formulación del Plan de Desarrollo Regional Concertado. Región Piu… | in force 25 November 2011 |
+| `ordenanza-regional-226-2011-grp-cr/` | Ordenanza Regional N° 226-2011/GRP-CR: Declaran de interés regional el mejoramiento de la infraestructura hidráulica de la Región Piura | in force 12 November 2011 |
+| `ordenanza-regional-224-2011-grp-cr/` | Ordenanza Regional N° 224-2011/GRP-CR: Aprueban la Estrategia Regional de Cambio Climático en Piura | in force 12 November 2011 |
+| `ordenanza-regional-225-2011-grp-cr/` | Ordenanza Regional N° 225-2011/GRP-CR: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional Piura | in force 11 November 2011 |
+| `ordenanza-regional-223-2011-grp-cr/` | Ordenanza Regional N° 223-2011/GRP-CR: Crean el Sistema Regional de Atención Integral de la Primera Infancia | in force 31 October 2011 |
+| `ordenanza-regional-221-2011-grp-cr/` | Ordenanza Regional N° 221-2011/GRP-CR: Apruebvan la rectificación del Formato - Procedimiento N° 51 del Texto Único de Procedimientos Administrativos de la Dire… | in force 23 October 2011 |
+| `ordenanza-regional-220-2011-grp-cr/` | Ordenanza Regional N° 220-2011/GRP-CR: Aprueban el Cuadro para Asignación de Personal de la Unidad Ejecutora "Institutos Superiores de Educación Pública Regiona… | in force 22 October 2011 |
+| `ordenanza-regional-216-2011-grp-cr/` | Ordenanza Regional N° 216-2011/GRP-CR: Modifican la Ordenanza N° 063-2005/GRP-CR, mediante la cual se constituyó el Comité Ejecutivo Regional Exportador - CERX | in force 21 October 2011 |
+| `ordenanza-regional-222-2011-grp-cr/` | Ordenanza Regional N° 222-2011/GRP-CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional | in force 21 October 2011 |
+| `ordenanza-regional-218-2011-grp-cr/` | Ordenanza Regional N° 218-2011/GRP-CR: Aprueban modificación del Cuadro para Asignación de Personal del Colegio Militar "Pedro Ruiz Gallo" | in force 15 October 2011 |
+| `ordenanza-regional-217-2011-grp-cr/` | Ordenanza Regional N° 217-2011/GRP-CR: Modifican Reglamento de Organización y Funciones del Gobierno Regional Piura | in force 15 October 2011 |
 
 ## Source
 

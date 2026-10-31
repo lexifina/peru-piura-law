@@ -240,20 +240,67 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-280-2013-grp-cr` | Ordenanza Regional N° 280-2013/GRP-CR: Constituyen el Consejo Regional de Productos Orgánicos en la Región Piura -COREPO PIURA | 1 | 2013-11-25 to 2013-11-25 |
 | `ordenanza-regional-278-2013-grp-cr` | Ordenanza Regional N° 278-2013/GRP-CR: Constituyen Consejo Regional de Pesca y Acuicultura en la Región Piura - COREPESCA | 1 | 2013-11-23 to 2013-11-23 |
 | `ordenanza-regional-277-2013-grp-cr` | Ordenanza Regional N° 277-2013/GRP-CR: Declaran de necesidad pública e interés regional la masificación del gas natural en la Región Piura | 1 | 2013-10-27 to 2013-10-27 |
+| `ordenanza-regional-276-2013-grp-cr` | Ordenanza Regional N° 276-2013/GRP-CR: Aprueban Reglamento de Organización y Funciones - ROF de la Dirección Regional de Producción | 1 | 2013-09-29 to 2013-09-29 |
+| `ordenanza-regional-275-2013-grp-cr` | Ordenanza Regional N° 275-2013/GRP-CR: Aprueban Plan Regional de Desarrollo Forestal | 1 | 2013-09-29 to 2013-09-29 |
+| `ordenanza-regional-274-2013-grp-cr` | Ordenanza Regional N° 274-2013/GRP-CR: Aprueban modificación del Reglamento de Organización y Funciones - ROF del Gobierno Regional Piura, aprobado mediante Ordenanza Regional N° 111-2006/GRP-CR | 1 | 2013-09-16 to 2013-09-16 |
+| `ordenanza-regional-270-2013-grp-cr` | Ordenanza Regional N° 270-2013/GRP-CR: Ordenanza que aprueba el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional Piura | 1 | 2013-07-26 to 2013-07-26 |
+| `ordenanza-regional-268-2013-grp-cr` | Ordenanza Regional N° 268-2013/GRP-CR: Ordenanza Regional que aprueba el Reglamento de Organización y Funciones - ROF del Centro de Exportación, Transformación, Industria, Comercialización y Servicios - CETICOS PAITA | 1 | 2013-07-26 to 2013-07-26 |
+| `ordenanza-regional-267-2013-grp-cr` | Ordenanza Regional N° 267-2013/GRP-CR: Aprueban la creación de la Unidad Ejecutora denominada "Unidad de Gestión Educativa Local - UGEL Huarmaca" | 1 | 2013-06-14 to 2013-06-14 |
+| `ordenanza-regional-266-2013-grp-cr` | Ordenanza Regional N° 266-2013/GRP-CR: Regulan el Proceso del Presupuesto Participativo Regional Basado en Resultados correspondiente al Año Fiscal 2014 | 1 | 2013-06-09 to 2013-06-09 |
+| `ordenanza-regional-263-2013-grp-cr` | Ordenanza Regional N° 263-2013/GRP-CR: Modifican Ordenanza Regional N° 202-2011/GRP-CR, que crea el Sistema Regional de Lucha contra la Corrupción | 1 | 2013-05-06 to 2013-05-06 |
+| `ordenanza-regional-264-2013-grp-cr` | Ordenanza Regional N° 264-2013/GRP-CR: Aprueban modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del Gobierno Regional Piura | 1 | 2013-04-20 to 2013-04-20 |
+| `ordenanza-regional-262-2013-grp-cr` | Ordenanza Regional N° 262-2013/GRP-CR: Aprueban Plan Estratégico de Desarrollo Regional Concertado (PEDRC), Piura 2013 - 2016 | 1 | 2013-04-20 to 2013-04-20 |
+| `ordenanza-regional-261-2013-grp-cr` | Ordenanza Regional N° 261-2013/GRP-CR: Aprueban la Mesozonificación Ecológica Económica del departamento de Piura | 1 | 2013-03-30 to 2013-03-30 |
+| `ordenanza-regional-260-2013-grp-cr` | Ordenanza Regional N° 260-2013/GRP-CR: Adecúan la constitución, organización y atribuciones del Comité Consultivo Regional de Turismo Piura (CCRT) y derogan las Ordenanzas Regionales N°s. 072-2005/GRP-CR, 178-2010/GRP-CR y 215-2011/GRP-CR. | 1 | 2013-03-07 to 2013-03-07 |
+| `ordenanza-regional-258-2013-grp-cr` | Ordenanza Regional N° 258-2013/GRP-CR: Aprueban creación de la Unidad Ejecutora "Unidad de Gestión Educativa Local - UGEL Huancabamba" | 1 | 2013-02-18 to 2013-02-18 |
+| `ordenanza-regional-257-2013-grp-cr` | Ordenanza Regional N° 257-2013/GRP-CR: Ordenanza que aprueba el Manual de Operaciones del "Proyecto Especial Chira Piura" | 1 | 2013-02-03 to 2013-02-03 |
+| `ordenanza-regional-256-2012-grp-cr` | Ordenanza Regional N° 256-2012/GRP-CR: Ordenanza que modifica el Reglamento de Organización y Funciones - ROF del Gobierno Regional Piura | 1 | 2013-01-24 to 2013-01-24 |
+| `ordenanza-regional-255-2012-grp-cr` | Ordenanza Regional N° 255-2012/GRP-CR: Ordenanza que aprueba la modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del Gobierno Regional Piura | 1 | 2013-01-12 to 2013-01-12 |
+| `ordenanza-regional-254-2012-grp-cr` | Ordenanza Regional N° 254-2012/GRP-CR: Ordenanza que aprueba el Reglamento de Organización y Funciones (ROF) del Hospital de la Amistad Perú Corea II-2 Santa Rosa Piura | 1 | 2013-01-12 to 2013-01-12 |
+| `ordenanza-regional-253-2012-grp-cr` | Ordenanza Regional N° 253-2012/GRP-CR: Ordenanza que crea el Consejo Consultivo de Niñas, Niños y Adolescentes de la Región Piura - CCONNA Región Piura | 1 | 2013-01-12 to 2013-01-12 |
+| `ordenanza-regional-252-2012-grp-cr` | Ordenanza Regional N° 252-2012/GRP-CR: Aprueban la modificación del Cuadro para Asignación de Personal (CAP) de la Dirección Regional de Agricultura aprobado mediante Ordenanza Regional N° 112-2006/GRP-CR | 1 | 2013-01-10 to 2013-01-10 |
+| `ordenanza-regional-250-2012-grp-cr` | Ordenanza Regional N° 250-2012/GRP-CR: Aprueban Reglamento de Organización y Funciones - ROF de la Unidad Ejecutora 307 Educación UGEL Morropón | 1 | 2012-12-15 to 2012-12-15 |
+| `ordenanza-regional-249-2012-grp-cr` | Ordenanza Regional N° 249-2012/GRP-CR: Ordenanza que crea el Programa Regional de Conservación y Aprovechamiento Sostenible del Patrimonio Forestal - NORBOSQUE PIURA | 1 | 2012-12-06 to 2012-12-06 |
+| `ordenanza-regional-248-2012-grp-cr` | Ordenanza Regional N° 248-2012/GRP-CR: Aprueban Reglamento de Organización y Funciones - ROF de la Unidad Ejecutora Educación UGEL Paita | 1 | 2012-11-18 to 2012-11-18 |
+| `ordenanza-regional-245-2012-grp-cr` | Ordenanza Regional N° 245-2012/GRP-CR: Crean el Observatorio de la Contrataciones del Estado en la Región | 1 | 2012-10-26 to 2012-10-26 |
+| `ordenanza-regional-244-2012-grp-cr` | Ordenanza Regional N° 244-2012/GRP-CR: Aprueban Lineamientos, Políticas y Estrategias Básicas de Agua y Saneamiento en el ámbito rural y pequeñas ciudades en la región | 1 | 2012-10-26 to 2012-10-26 |
+| `ordenanza-regional-243-2012-grp-cr` | Ordenanza Regional N° 243-2012/GRP-CR: Implementan la Red Regional de Desarrollo Económico en la Región Piura | 1 | 2012-09-14 to 2012-09-14 |
+| `ordenanza-regional-241-2012-grp-cr` | Ordenanza Regional N° 241-2012/GRP-CR: Aprueban Reglamento de Organización y Funciones - ROF de la Unidad Ejecutora Educación UGEL Talara | 1 | 2012-07-14 to 2012-07-14 |
+| `ordenanza-regional-239-2012-grp-cr` | Ordenanza Regional N° 239-2012/GRP-CR: Declaran al distrito de Canchaque "Capital del Café Orgánico de la Región Piura" | 1 | 2012-07-06 to 2012-07-06 |
+| `ordenanza-regional-240-2012-grp-cr` | Ordenanza Regional N° 240-2012/GRP-CR: Disponen la reestructuración y modernización del Consejo Regional de la Juventud y derogan la Ordenanza Regional N° 040-2004/GRP-CR | 1 | 2012-07-06 to 2012-07-06 |
+| `ordenanza-regional-238-2012-grp-cr` | Ordenanza Regional N° 238-2012/GRP-CR: Crean el Sistema Regional de Prevención y Atención del Acoso Escolar, la Violencia contra la Mujer, Niñas, Niños y Adolescentes | 1 | 2012-07-06 to 2012-07-06 |
+| `ordenanza-regional-235-2012-grp-cr` | Ordenanza Regional N° 235-2012/GRP-CR: Aprueban Ordenanza que incorpora eje estratégico de prevención del embarazo en adolescentes en el Plan Regional por los Derechos de Niñas, Niños y Adolescentes de Piura 2009 - 2015 | 1 | 2012-04-19 to 2012-04-19 |
+| `ordenanza-regional-234-2012-grp-cr` | Ordenanza Regional N° 234-2012/GRP-CR: Crean la condecoración "Región Piura" como distinción del Gobierno Regional Piura | 1 | 2012-03-04 to 2012-03-04 |
+| `ordenanza-regional-233-2012-grp-cr` | Ordenanza Regional N° 233-2012/GRP-CR: Ordenanza Regional que dispone medidas preventivas frente a la sobreexposición de los rayos ultravioleta | 1 | 2012-02-07 to 2012-02-07 |
+| `ordenanza-regional-232-2011-grp-cr` | Ordenanza Regional N° 232-2011/GRP-CR: Ordenanza que modifica el Reglamento de Organización y Funciones - ROF del Gobierno Regional Piura | 1 | 2012-01-29 to 2012-01-29 |
+| `ordenanza-regional-231-2011-grp-cr` | Ordenanza Regional N° 231-2011/GRP-CR: Aprueban Plan Regional de la Juventud de Piura 2012-2016 | 1 | 2012-01-06 to 2012-01-06 |
+| `ordenanza-regional-227-2011-grp-cr` | Ordenanza Regional N° 227-2011/GRP-CR: Ordenanza que aprueba la modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del Gobierno Regional Piura | 1 | 2011-12-01 to 2011-12-01 |
+| `ordenanza-regional-229-2011-grp-cr` | Ordenanza Regional N° 229-2011/GRP-CR: Crean las Veedurías Ciudadanas en el ámbito jurisdiccional del Gobierno Regional Piura | 1 | 2011-11-25 to 2011-11-25 |
+| `ordenanza-regional-228-2011-grp-cr` | Ordenanza Regional N° 228-2011/GRP-CR: Declaran de prioridad e interés regional el proceso de formulación del Plan de Desarrollo Regional Concertado. Región Piura 2012-2016 | 1 | 2011-11-25 to 2011-11-25 |
+| `ordenanza-regional-226-2011-grp-cr` | Ordenanza Regional N° 226-2011/GRP-CR: Declaran de interés regional el mejoramiento de la infraestructura hidráulica de la Región Piura | 1 | 2011-11-12 to 2011-11-12 |
+| `ordenanza-regional-224-2011-grp-cr` | Ordenanza Regional N° 224-2011/GRP-CR: Aprueban la Estrategia Regional de Cambio Climático en Piura | 1 | 2011-11-12 to 2011-11-12 |
+| `ordenanza-regional-225-2011-grp-cr` | Ordenanza Regional N° 225-2011/GRP-CR: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional Piura | 1 | 2011-11-11 to 2011-11-11 |
+| `ordenanza-regional-223-2011-grp-cr` | Ordenanza Regional N° 223-2011/GRP-CR: Crean el Sistema Regional de Atención Integral de la Primera Infancia | 1 | 2011-10-31 to 2011-10-31 |
+| `ordenanza-regional-221-2011-grp-cr` | Ordenanza Regional N° 221-2011/GRP-CR: Apruebvan la rectificación del Formato - Procedimiento N° 51 del Texto Único de Procedimientos Administrativos de la Dirección Regional de Salud | 1 | 2011-10-23 to 2011-10-23 |
+| `ordenanza-regional-220-2011-grp-cr` | Ordenanza Regional N° 220-2011/GRP-CR: Aprueban el Cuadro para Asignación de Personal de la Unidad Ejecutora "Institutos Superiores de Educación Pública Regional de Piura" | 1 | 2011-10-22 to 2011-10-22 |
+| `ordenanza-regional-216-2011-grp-cr` | Ordenanza Regional N° 216-2011/GRP-CR: Modifican la Ordenanza N° 063-2005/GRP-CR, mediante la cual se constituyó el Comité Ejecutivo Regional Exportador - CERX | 1 | 2011-10-21 to 2011-10-21 |
+| `ordenanza-regional-222-2011-grp-cr` | Ordenanza Regional N° 222-2011/GRP-CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional | 1 | 2011-10-21 to 2011-10-21 |
+| `ordenanza-regional-218-2011-grp-cr` | Ordenanza Regional N° 218-2011/GRP-CR: Aprueban modificación del Cuadro para Asignación de Personal del Colegio Militar "Pedro Ruiz Gallo" | 1 | 2011-10-15 to 2011-10-15 |
+| `ordenanza-regional-217-2011-grp-cr` | Ordenanza Regional N° 217-2011/GRP-CR: Modifican Reglamento de Organización y Funciones del Gobierno Regional Piura | 1 | 2011-10-15 to 2011-10-15 |
 
-The build made 226 commits:
+The build made 273 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 226 | first version of an act |
+| 273 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 226 laws in the record.
-- 452 tags.
+- 273 laws in the record.
+- 546 tags.
 
 ## Dates
 
@@ -265,7 +312,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `016ce3ff5416c37815e3b8265a43059113562c6c4bac70d9348bfa04c033211b` (2829308 bytes).
+- Corpus: sha256 `e299d667f3359d8a51543bbf9f25887a9eacc784c2ceb99763e897ef2a667dfc` (3363217 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
