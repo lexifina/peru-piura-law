@@ -1,0 +1,11 @@
+{
+  "path": "pe-piu",
+  "code": "PE-PIU",
+  "name": "Piura",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-piura-law",
+  "build": "built: 202 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
