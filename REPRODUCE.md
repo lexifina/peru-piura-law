@@ -287,20 +287,62 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-222-2011-grp-cr` | Ordenanza Regional N° 222-2011/GRP-CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional | 1 | 2011-10-21 to 2011-10-21 |
 | `ordenanza-regional-218-2011-grp-cr` | Ordenanza Regional N° 218-2011/GRP-CR: Aprueban modificación del Cuadro para Asignación de Personal del Colegio Militar "Pedro Ruiz Gallo" | 1 | 2011-10-15 to 2011-10-15 |
 | `ordenanza-regional-217-2011-grp-cr` | Ordenanza Regional N° 217-2011/GRP-CR: Modifican Reglamento de Organización y Funciones del Gobierno Regional Piura | 1 | 2011-10-15 to 2011-10-15 |
+| `ordenanza-regional-219-2011-grp-cr` | Ordenanza Regional N° 219-2011/GRP-CR: Aprueban Cuadro para Asignación de Personal - CAP de la Gerencia Regional de Saneamiento Físico Legal de la Propiedad Rural - PRO RURAL | 1 | 2011-10-15 to 2011-10-15 |
+| `ordenanza-regional-215-2011-grp-cr` | Ordenanza Regional N° 215-2011/GRP-CR: Modifican Ordenanzas Regionales  N°s. 072-2005/GRP-CR y 1778-2010/GRP-CR sobre denominación, conformación y funciones del Comité Consultivo Regional de Turismo de Piura | 1 | 2011-10-01 to 2011-10-01 |
+| `ordenanza-regional-214-2011-grp-cr` | Ordenanza Regional N° 214-2011/GRP-CR: Modifican Reglamentos de Organización y Funciones - ROF del Gobierno Regional Piura y de la Dirección Regional de Agricultura de Piura | 1 | 2011-09-13 to 2011-09-13 |
+| `ordenanza-regional-213-2011-grp-cr` | Ordenanza Regional N° 213-2011/GRP-CR: Aprueban el Reglamento de Organización y Funciones  de la Unidad Ejecutora "Institutos Superiores de Educación Pública Regional de Piura". | 1 | 2011-07-10 to 2011-07-10 |
+| `ordenanza-regional-211-2011-grp-cr` | Ordenanza Regional N° 211-2011/GRP-CR: Constituyen el Consejo Regional del Mango en la Región Piura - COREMANGO | 1 | 2011-06-25 to 2011-06-25 |
+| `ordenanza-regional-210-2011-grp-cr` | Ordenanza Regional N° 210-2011/GRP-CR: Crean el Consejo Regional de Trabajo y Promoción del Empleo de Piura | 1 | 2011-06-17 to 2011-06-17 |
+| `ordenanza-regional-209-2011-grp-cr` | Ordenanza Regional N° 209-2011/GRP-CR: Oficializan el Sistema de Información Ambiental Regional - SIAR Piura | 1 | 2011-06-09 to 2011-06-09 |
+| `ordenanza-regional-208-2011-grp-cr` | Ordenanza Regional N° 208-2011/GRP-CR: Derogan la Ordenanza N° 010-2003/GOB.REG.PIURA-CR que aprobó logotipo oficial del Gobierno Regional Piura | 1 | 2011-05-20 to 2011-05-20 |
+| `ordenanza-regional-207-2011-grp-cr` | Ordenanza Regional N° 207-2011/GRP-CR: Regulan el Proceso del Presupuesto Participativo Regional basado en resultados y dan inicio al proceso correspondiente al Año Fiscal 2012 | 1 | 2011-05-10 to 2011-05-10 |
+| `ordenanza-regional-206-2011-grp-cr` | Ordenanza Regional N° 206-2011/GRP-CR: Declaran al distrito de Montero como Capital Regional de la Panela Granulada en la Región Piura | 1 | 2011-05-09 to 2011-05-09 |
+| `ordenanza-regional-204-2011-grp-cr` | Ordenanza Regional N° 204-2011/GRP-CR: Instituyen la celebración de la "Semana Regional de la Filigrana de Plata de Catacaos" | 1 | 2011-03-19 to 2011-03-19 |
+| `ordenanza-regional-202-2011-grp-cr` | Ordenanza Regional N° 202-2011/GRP-CR: Crean el Sistema Regional de Lucha contra la Corrupción | 1 | 2011-03-11 to 2011-03-11 |
+| `ordenanza-regional-203-2011-grp-cr` | Ordenanza Regional N° 203-2011/GRP-CR: Aprueban modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del Gobierno Regional de Piura | 1 | 2011-03-11 to 2011-03-11 |
+| `ordenanza-regional-201-2011-grp-cr` | Ordenanza Regional N° 201-2011/GRP-CR: Aprueban la creación de la Oficina Regional de Atención a la Persona con Discapacidad del Gobierno Regional Piura | 1 | 2011-03-04 to 2011-03-04 |
+| `ordenanza-regional-200-2011-grp-cr` | Ordenanza Regional N° 200-2011/GRP-CR: Aprueban la adecuación, actualización e inclusión de los procedimientos y servicios administrativos contenidos en los Textos Únicos de Procedimientos Administrativos de las dependencias adscritas al Gobierno Regional Piura | 1 | 2011-02-21 to 2011-02-21 |
+| `ordenanza-regional-199-2011-grp-cr` | Ordenanza Regional N° 199-2011/GRP-CR: Declaran en reestructuración al Gobierno Regional Piura | 1 | 2011-02-10 to 2011-02-10 |
+| `ordenanza-regional-197-2010-grp-cr` | Ordenanza Regional N° 197-2010/GRP-CR: Crean el Sistema Regional de Desarrollo de Capacidades y aprueban el Plan Regional de Desarrollo de Capacidades del Gobierno Regional Piura 2011 - 2015 | 1 | 2011-01-01 to 2011-01-01 |
+| `ordenanza-regional-198-2010-grp-cr` | Ordenanza Regional N° 198-2010/GRP-CR: Disponen la realización de actos administrativos para el cumplimiento de la Ley N° 27803 en el Gobierno Regional Piura | 1 | 2011-01-01 to 2011-01-01 |
+| `ordenanza-regional-192-2010-grp-cr` | Ordenanza Regional N° 192-2010/GRP-CR: Declaran el mes de abril como "El Mes del Derecho al Nombre y a la Identidad" en el ámbito del Gobierno Regional Piura | 1 | 2010-12-23 to 2010-12-23 |
+| `ordenanza-regional-194-2010-grp-cr` | Ordenanza Regional N° 194-2010/GRP-CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional de Piura | 1 | 2010-12-07 to 2010-12-07 |
+| `ordenanza-regional-195-2010-grp-cr` | Ordenanza Regional N° 195-2010/GRP-CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Agricultura - Piura | 1 | 2010-12-07 to 2010-12-07 |
+| `ordenanza-regional-190-2010-grp-cr` | Ordenanza Regional N° 190-2010/GRP-CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Energía y Minas del Gobierno Regional | 1 | 2010-08-14 to 2010-08-14 |
+| `ordenanza-regional-188-2010-grp-cr` | Ordenanza Regional N° 188-2010/GRP-CR: Disponen la presentación de Informe Técnico Legal de la Sub Gerencia Regional de Bienes Regionales y Ordenamiento Territorial para la transferencia de tierras del Gobierno Regional Piura en el Marco de la Promoción de la Inversión Privada | 1 | 2010-08-10 to 2010-08-10 |
+| `ordenanza-regional-189-2010-grp-cr` | Ordenanza Regional N° 189-2010/GRP-CR: Modifican la Ordenanza Regional N° 033-2004/GRP-CR que crea el Consejo Regional de la Micro y Pequeña Empresa - COREMYPE | 1 | 2010-08-10 to 2010-08-10 |
+| `ordenanza-regional-185-2010-grp-cr` | Ordenanza Regional N° 185-2010/GRP-CR: Aprueban modificación del Cuadro para Asignación de Personal de la Gerencia Subregional Luciano Castillo Colonna y de la Sede Central del Gobierno Regional Piura | 1 | 2010-05-19 to 2010-05-19 |
+| `ordenanza-regional-184-2010-grp-cr` | Ordenanza Regional N° 184-2010/GRP-CR: Aprueban la modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del Gobierno Regional Piura | 1 | 2010-04-09 to 2010-04-09 |
+| `ordenanza-regional-181-2010-grp-cr` | Ordenanza Regional N° 181-2010/GRP-CR: Crean el Voluntariado Regional de Ciudadanos y Ciudadanas en el ámbito del del Gobierno Regional Piura | 1 | 2010-04-08 to 2010-04-08 |
+| `ordenanza-regional-180-2010-grp-cr` | Ordenanza Regional N° 180-2010/GRP-CR: Aprueban el Plan Regional de Igualdad de Oportunidades entre Mujeres y Varones 2010-2012 | 1 | 2010-03-06 to 2010-03-06 |
+| `ordenanza-regional-178-2010-grp-cr` | Ordenanza Regional N° 178-2010/GRP-CR: Modifican la Ordenanza Regional N° 072-2005/GRP-CR que creó el Consejo Regional de Turismo de Piura denominándose ahora Consejo Consultivo Regional de Turismo - CCRT | 1 | 2010-02-04 to 2010-02-04 |
+| `ordenanza-regional-179-2010-grp-cr` | Ordenanza Regional N° 179-2010/GRP-CR: Crean el Consejo Regional de Fomento Artesanal y dejan sin efecto la Ordenanza Regional N° 148-2008/GRP-CR | 1 | 2010-02-04 to 2010-02-04 |
+| `ordenanza-regional-177-2009-grp-cr` | Ordenanza Regional N° 177-2009/GRP-CR: Aprueban Plan Regional por los Derechos de Niñas, Niños y Adolescentes de Piura 2009 - 2015 | 1 | 2009-12-06 to 2009-12-06 |
+| `ordenanza-regional-176-2009-grp-cr` | Ordenanza Regional N° 176-2009/GRP-CR: Declaran de necesidad pública regional implementar acciones para la prevención, atención y protección frente al hostigamiento sexual en el ámbito del Gobierno Regional Piura | 1 | 2009-12-06 to 2009-12-06 |
+| `ordenanza-regional-175-2009-grp-cr` | Ordenanza Regional N° 175-2009/GRP-CR: Aprueban Plan Estratégico Institucional de la Gerencia Subregional Morropón Huancabamba 2009 - 2011 | 1 | 2009-12-05 to 2009-12-05 |
+| `ordenanza-regional-174-2009-grp-cr` | Ordenanza Regional N° 174-2009/GRP-CR: Aprueban el Plan Regional de Cooperación Internacional No Reembolsable 2009-2013 | 1 | 2009-10-09 to 2009-10-09 |
+| `ordenanza-regional-173-2009-grp-cr` | Ordenanza Regional N° 173-2009/GRP-CR: Aprueban el Plan Estratégico Institucional 2009-2011 | 1 | 2009-09-27 to 2009-09-27 |
+| `ordenanza-regional-171-2009-grp-cr` | Ordenanza Regional N° 171-2009/GRP-CR: Modifican conformación de los integrantes del Consejo Regional de Desarrollo Agrario - CORDA | 1 | 2009-08-30 to 2009-08-30 |
+| `ordenanza-regional-172-2009-grp-cr` | Ordenanza Regional N° 172-2009/GRP-CR: Aprueban creación del Centro de Capacitación e Investigación Educativa "Piura" - CERCIEP - PIURA | 1 | 2009-08-30 to 2009-08-30 |
+| `ordenanza-regional-170-2009-grp-cr` | Ordenanza Regional N° 170-2009/GRP-CR: Ordenanza Regional que aprueba normas complementarias al nuevo Reglamento Nacional de Administración del Transporte | 1 | 2009-07-20 to 2009-07-20 |
+| `ordenanza-regional-167-2009-grp-cr` | Ordenanza Regional N° 167-2009/GRP-CR: Ordenanza que aprueba el Plan Regional de Formación Profesional | 1 | 2009-07-01 to 2009-07-01 |
+| `ordenanza-regional-169-2009-grp-cr` | Ordenanza Regional N° 169-2009/GRP-CR: Ordenanza que declara de interés regional la promoción del Cacao Criollo Piurano en el ámbito jurisdiccional del Gobierno Regional Piura | 1 | 2009-06-29 to 2009-06-29 |
+| `ordenanza-regional-166-2009-grp-cr` | Ordenanza Regional N° 166-2009/GRP-CR: Ordenanza que aprueba la modificación del Cuadro para Asignación de Personal del Hospital Santa Rosa | 1 | 2009-05-30 to 2009-05-30 |
+| `ordenanza-regional-163-2009-grp-cr` | Ordenanza Regional N° 163-2009/GRP-CR: Aprueban la promoción, difusión y ejecución de Ferias Populares "De la chacra a la olla" y "Del mar a la mesa" en el ámbito jurisdiccional del Gobierno Regional Piura | 1 | 2009-04-26 to 2009-04-26 |
 
-The build made 273 commits:
+The build made 315 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 273 | first version of an act |
+| 315 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 273 laws in the record.
-- 546 tags.
+- 315 laws in the record.
+- 630 tags.
 
 ## Dates
 
@@ -312,7 +354,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e299d667f3359d8a51543bbf9f25887a9eacc784c2ceb99763e897ef2a667dfc` (3363217 bytes).
+- Corpus: sha256 `d17536c493752783394bf6a6093a544665a309176786b5e93a181594ccad0898` (3852832 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

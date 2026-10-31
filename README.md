@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-273 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+315 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -285,6 +285,48 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-222-2011-grp-cr/` | Ordenanza Regional N° 222-2011/GRP-CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional | in force 21 October 2011 |
 | `ordenanza-regional-218-2011-grp-cr/` | Ordenanza Regional N° 218-2011/GRP-CR: Aprueban modificación del Cuadro para Asignación de Personal del Colegio Militar "Pedro Ruiz Gallo" | in force 15 October 2011 |
 | `ordenanza-regional-217-2011-grp-cr/` | Ordenanza Regional N° 217-2011/GRP-CR: Modifican Reglamento de Organización y Funciones del Gobierno Regional Piura | in force 15 October 2011 |
+| `ordenanza-regional-219-2011-grp-cr/` | Ordenanza Regional N° 219-2011/GRP-CR: Aprueban Cuadro para Asignación de Personal - CAP de la Gerencia Regional de Saneamiento Físico Legal de la Propiedad Rur… | in force 15 October 2011 |
+| `ordenanza-regional-215-2011-grp-cr/` | Ordenanza Regional N° 215-2011/GRP-CR: Modifican Ordenanzas Regionales  N°s. 072-2005/GRP-CR y 1778-2010/GRP-CR sobre denominación, conformación y funciones del… | in force 1 October 2011 |
+| `ordenanza-regional-214-2011-grp-cr/` | Ordenanza Regional N° 214-2011/GRP-CR: Modifican Reglamentos de Organización y Funciones - ROF del Gobierno Regional Piura y de la Dirección Regional de Agricul… | in force 13 September 2011 |
+| `ordenanza-regional-213-2011-grp-cr/` | Ordenanza Regional N° 213-2011/GRP-CR: Aprueban el Reglamento de Organización y Funciones  de la Unidad Ejecutora "Institutos Superiores de Educación Pública Re… | in force 10 July 2011 |
+| `ordenanza-regional-211-2011-grp-cr/` | Ordenanza Regional N° 211-2011/GRP-CR: Constituyen el Consejo Regional del Mango en la Región Piura - COREMANGO | in force 25 June 2011 |
+| `ordenanza-regional-210-2011-grp-cr/` | Ordenanza Regional N° 210-2011/GRP-CR: Crean el Consejo Regional de Trabajo y Promoción del Empleo de Piura | in force 17 June 2011 |
+| `ordenanza-regional-209-2011-grp-cr/` | Ordenanza Regional N° 209-2011/GRP-CR: Oficializan el Sistema de Información Ambiental Regional - SIAR Piura | in force 9 June 2011 |
+| `ordenanza-regional-208-2011-grp-cr/` | Ordenanza Regional N° 208-2011/GRP-CR: Derogan la Ordenanza N° 010-2003/GOB.REG.PIURA-CR que aprobó logotipo oficial del Gobierno Regional Piura | in force 20 May 2011 |
+| `ordenanza-regional-207-2011-grp-cr/` | Ordenanza Regional N° 207-2011/GRP-CR: Regulan el Proceso del Presupuesto Participativo Regional basado en resultados y dan inicio al proceso correspondiente al… | in force 10 May 2011 |
+| `ordenanza-regional-206-2011-grp-cr/` | Ordenanza Regional N° 206-2011/GRP-CR: Declaran al distrito de Montero como Capital Regional de la Panela Granulada en la Región Piura | in force 9 May 2011 |
+| `ordenanza-regional-204-2011-grp-cr/` | Ordenanza Regional N° 204-2011/GRP-CR: Instituyen la celebración de la "Semana Regional de la Filigrana de Plata de Catacaos" | in force 19 March 2011 |
+| `ordenanza-regional-202-2011-grp-cr/` | Ordenanza Regional N° 202-2011/GRP-CR: Crean el Sistema Regional de Lucha contra la Corrupción | in force 11 March 2011 |
+| `ordenanza-regional-203-2011-grp-cr/` | Ordenanza Regional N° 203-2011/GRP-CR: Aprueban modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del Gobierno Regiona… | in force 11 March 2011 |
+| `ordenanza-regional-201-2011-grp-cr/` | Ordenanza Regional N° 201-2011/GRP-CR: Aprueban la creación de la Oficina Regional de Atención a la Persona con Discapacidad del Gobierno Regional Piura | in force 4 March 2011 |
+| `ordenanza-regional-200-2011-grp-cr/` | Ordenanza Regional N° 200-2011/GRP-CR: Aprueban la adecuación, actualización e inclusión de los procedimientos y servicios administrativos contenidos en los Tex… | in force 21 February 2011 |
+| `ordenanza-regional-199-2011-grp-cr/` | Ordenanza Regional N° 199-2011/GRP-CR: Declaran en reestructuración al Gobierno Regional Piura | in force 10 February 2011 |
+| `ordenanza-regional-197-2010-grp-cr/` | Ordenanza Regional N° 197-2010/GRP-CR: Crean el Sistema Regional de Desarrollo de Capacidades y aprueban el Plan Regional de Desarrollo de Capacidades del Gobie… | in force 1 January 2011 |
+| `ordenanza-regional-198-2010-grp-cr/` | Ordenanza Regional N° 198-2010/GRP-CR: Disponen la realización de actos administrativos para el cumplimiento de la Ley N° 27803 en el Gobierno Regional Piura | in force 1 January 2011 |
+| `ordenanza-regional-192-2010-grp-cr/` | Ordenanza Regional N° 192-2010/GRP-CR: Declaran el mes de abril como "El Mes del Derecho al Nombre y a la Identidad" en el ámbito del Gobierno Regional Piura | in force 23 December 2010 |
+| `ordenanza-regional-194-2010-grp-cr/` | Ordenanza Regional N° 194-2010/GRP-CR: Modifican el Reglamento de Organización y Funciones - ROF del Gobierno Regional de Piura | in force 7 December 2010 |
+| `ordenanza-regional-195-2010-grp-cr/` | Ordenanza Regional N° 195-2010/GRP-CR: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Agricultura - Piura | in force 7 December 2010 |
+| `ordenanza-regional-190-2010-grp-cr/` | Ordenanza Regional N° 190-2010/GRP-CR: Aprueban Cuadro para Asignación de Personal de la Dirección Regional de Energía y Minas del Gobierno Regional | in force 14 August 2010 |
+| `ordenanza-regional-188-2010-grp-cr/` | Ordenanza Regional N° 188-2010/GRP-CR: Disponen la presentación de Informe Técnico Legal de la Sub Gerencia Regional de Bienes Regionales y Ordenamiento Territo… | in force 10 August 2010 |
+| `ordenanza-regional-189-2010-grp-cr/` | Ordenanza Regional N° 189-2010/GRP-CR: Modifican la Ordenanza Regional N° 033-2004/GRP-CR que crea el Consejo Regional de la Micro y Pequeña Empresa - COREMYPE | in force 10 August 2010 |
+| `ordenanza-regional-185-2010-grp-cr/` | Ordenanza Regional N° 185-2010/GRP-CR: Aprueban modificación del Cuadro para Asignación de Personal de la Gerencia Subregional Luciano Castillo Colonna y de la … | in force 19 May 2010 |
+| `ordenanza-regional-184-2010-grp-cr/` | Ordenanza Regional N° 184-2010/GRP-CR: Aprueban la modificación de los Cuadros para Asignación de Personal de las Unidades Ejecutoras de Salud del Gobierno Regi… | in force 9 April 2010 |
+| `ordenanza-regional-181-2010-grp-cr/` | Ordenanza Regional N° 181-2010/GRP-CR: Crean el Voluntariado Regional de Ciudadanos y Ciudadanas en el ámbito del del Gobierno Regional Piura | in force 8 April 2010 |
+| `ordenanza-regional-180-2010-grp-cr/` | Ordenanza Regional N° 180-2010/GRP-CR: Aprueban el Plan Regional de Igualdad de Oportunidades entre Mujeres y Varones 2010-2012 | in force 6 March 2010 |
+| `ordenanza-regional-178-2010-grp-cr/` | Ordenanza Regional N° 178-2010/GRP-CR: Modifican la Ordenanza Regional N° 072-2005/GRP-CR que creó el Consejo Regional de Turismo de Piura denominándose ahora C… | in force 4 February 2010 |
+| `ordenanza-regional-179-2010-grp-cr/` | Ordenanza Regional N° 179-2010/GRP-CR: Crean el Consejo Regional de Fomento Artesanal y dejan sin efecto la Ordenanza Regional N° 148-2008/GRP-CR | in force 4 February 2010 |
+| `ordenanza-regional-177-2009-grp-cr/` | Ordenanza Regional N° 177-2009/GRP-CR: Aprueban Plan Regional por los Derechos de Niñas, Niños y Adolescentes de Piura 2009 - 2015 | in force 6 December 2009 |
+| `ordenanza-regional-176-2009-grp-cr/` | Ordenanza Regional N° 176-2009/GRP-CR: Declaran de necesidad pública regional implementar acciones para la prevención, atención y protección frente al hostigami… | in force 6 December 2009 |
+| `ordenanza-regional-175-2009-grp-cr/` | Ordenanza Regional N° 175-2009/GRP-CR: Aprueban Plan Estratégico Institucional de la Gerencia Subregional Morropón Huancabamba 2009 - 2011 | in force 5 December 2009 |
+| `ordenanza-regional-174-2009-grp-cr/` | Ordenanza Regional N° 174-2009/GRP-CR: Aprueban el Plan Regional de Cooperación Internacional No Reembolsable 2009-2013 | in force 9 October 2009 |
+| `ordenanza-regional-173-2009-grp-cr/` | Ordenanza Regional N° 173-2009/GRP-CR: Aprueban el Plan Estratégico Institucional 2009-2011 | in force 27 September 2009 |
+| `ordenanza-regional-171-2009-grp-cr/` | Ordenanza Regional N° 171-2009/GRP-CR: Modifican conformación de los integrantes del Consejo Regional de Desarrollo Agrario - CORDA | in force 30 August 2009 |
+| `ordenanza-regional-172-2009-grp-cr/` | Ordenanza Regional N° 172-2009/GRP-CR: Aprueban creación del Centro de Capacitación e Investigación Educativa "Piura" - CERCIEP - PIURA | in force 30 August 2009 |
+| `ordenanza-regional-170-2009-grp-cr/` | Ordenanza Regional N° 170-2009/GRP-CR: Ordenanza Regional que aprueba normas complementarias al nuevo Reglamento Nacional de Administración del Transporte | in force 20 July 2009 |
+| `ordenanza-regional-167-2009-grp-cr/` | Ordenanza Regional N° 167-2009/GRP-CR: Ordenanza que aprueba el Plan Regional de Formación Profesional | in force 1 July 2009 |
+| `ordenanza-regional-169-2009-grp-cr/` | Ordenanza Regional N° 169-2009/GRP-CR: Ordenanza que declara de interés regional la promoción del Cacao Criollo Piurano en el ámbito jurisdiccional del Gobierno… | in force 29 June 2009 |
+| `ordenanza-regional-166-2009-grp-cr/` | Ordenanza Regional N° 166-2009/GRP-CR: Ordenanza que aprueba la modificación del Cuadro para Asignación de Personal del Hospital Santa Rosa | in force 30 May 2009 |
+| `ordenanza-regional-163-2009-grp-cr/` | Ordenanza Regional N° 163-2009/GRP-CR: Aprueban la promoción, difusión y ejecución de Ferias Populares "De la chacra a la olla" y "Del mar a la mesa" en el ámbi… | in force 26 April 2009 |
 
 ## Source
 
